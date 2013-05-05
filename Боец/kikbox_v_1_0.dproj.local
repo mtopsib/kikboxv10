@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.157,D:\документы\проекты делфи\Боец\kikbox_v_1_0.dproj=D:\документы\проекты делфи\Боец\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.867,D:\документы\проекты делфи\Боец\Project1.dproj=C:\Users\MikleTop\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.307,D:\документы\проекты делфи\Боец\main.pas=C:\Users\MikleTop\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.307,D:\документы\проекты делфи\Боец\main.dfm=C:\Users\MikleTop\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.938,=C:\Users\MikleTop\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
